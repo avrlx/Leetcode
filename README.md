@@ -10,11 +10,13 @@ leetCode Problemes
 | [0004-median-of-two-sorted-arrays](https://github.com/avrlx/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/avrlx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0704-binary-search](https://github.com/avrlx/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/avrlx/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0704-binary-search](https://github.com/avrlx/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
