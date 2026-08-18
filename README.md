@@ -37,6 +37,7 @@ leetCode Problemes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avrlx/Leetcode/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ leetCode Problemes
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/avrlx/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -63,5 +65,10 @@ leetCode Problemes
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avrlx/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
