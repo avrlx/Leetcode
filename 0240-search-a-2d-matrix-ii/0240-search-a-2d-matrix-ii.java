@@ -3,8 +3,8 @@ class Solution {
         int i =0;
         int j = arr[0].length - 1;
         while(j>=0 && i < arr.length){
-            if(arr[i][j] > k ) j--;
-            else if(arr[i][j] < k) i++;
+            if(arr[i][j] > k ) j--; // go left 
+            else if(arr[i][j] < k) i++; // go down 
             else return true;
         }
         return false;
