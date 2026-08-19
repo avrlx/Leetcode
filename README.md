@@ -12,6 +12,7 @@ leetCode Problemes
 | [0033-search-in-rotated-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/avrlx/Leetcode/tree/master/0048-rotate-image) |
+| [0118-pascals-triangle](https://github.com/avrlx/Leetcode/tree/master/0118-pascals-triangle) |
 | [0540-single-element-in-a-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/avrlx/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avrlx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -83,4 +84,8 @@ leetCode Problemes
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/avrlx/Leetcode/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/avrlx/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
