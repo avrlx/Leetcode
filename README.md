@@ -13,6 +13,7 @@ leetCode Problemes
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/avrlx/Leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/avrlx/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/avrlx/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/avrlx/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avrlx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -88,4 +89,5 @@ leetCode Problemes
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/avrlx/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/avrlx/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
