@@ -12,6 +12,7 @@ leetCode Problemes
 | [0033-search-in-rotated-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/avrlx/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/avrlx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/avrlx/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/avrlx/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/avrlx/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -83,11 +84,13 @@ leetCode Problemes
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avrlx/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/avrlx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/avrlx/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/avrlx/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/avrlx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/avrlx/Leetcode/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
