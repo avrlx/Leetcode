@@ -1,24 +1,14 @@
 class Solution {
-    public int removeDuplicates(int[] arr) {
-        int n = arr.length;
-        int last = arr[n -1];
-        int i = 0,j = 1;
-        for( i =0;i<n;){
-            if(arr[i] == last) break; // loop terminater
-            while(arr[i] == arr[j]){
-                while(j<n-1){
-                    int temp = arr[j];
-                    arr[j] = arr[j+1];
-                    arr[j+1] = temp;
-                    j++;
-                }
-                j = i+1;
-            }
-            i++;
-            j=i+1; 
-            if(arr[i] == last) break; // loop terminater
-
+    public int removeDuplicates(int[] a) {
+        List<Integer> arr = new ArrayList<>(); // using extra space..
+        for (int i = 0; i < a.length - 1; i++) {
+            if (a[i] != a[i + 1])
+                arr.add(a[i]); // put different in arraylist
         }
-        return i + 1;
+        arr.add(a[a.length - 1]);
+        for (int i = 0; i < arr.size(); i++) {
+            a[i] = arr.get(i); // update array
+        }
+        return arr.size();
     }
 }
