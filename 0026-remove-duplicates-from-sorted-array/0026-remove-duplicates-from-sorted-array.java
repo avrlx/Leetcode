@@ -1,5 +1,5 @@
 class Solution {
-    public int removeDuplicates(int[] a) {
+    public int removeDuplicates(int[] arr) {
         // List<Integer> arr = new ArrayList<>(); // using extra space..
         // for (int i = 0; i < a.length - 1; i++) {
         //     if (a[i] != a[i + 1])
@@ -11,13 +11,21 @@ class Solution {
         // }
         // return arr.size();
 
-        int j =0;
-        for (int i = 1; i < a.length ; i++) {
-            if (a[j] != a[i])
-                a[++j] = a[i];
-        }
-        return ++j;
+// method 2
 
-        
+        // int j =0;
+        // for (int i = 1; i < a.length ; i++) {
+        //     if (a[j] != a[i])
+        //         a[++j] = a[i];
+        // }
+        // return ++j;
+
+//method 3
+        int temp = 1;
+        for(int i = 1;i<arr.length;i++){
+            if(arr[i]!=arr[i-1])
+                arr[temp++] = arr[i];
+        }        
+        return temp;
     }
 }
