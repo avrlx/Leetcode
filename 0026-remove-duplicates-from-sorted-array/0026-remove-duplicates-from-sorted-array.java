@@ -1,5 +1,8 @@
 class Solution {
     public int removeDuplicates(int[] arr) {
+        if(arr.length==0){
+            return 0;
+        }
         // List<Integer> arr = new ArrayList<>(); // using extra space..
         // for (int i = 0; i < a.length - 1; i++) {
         //     if (a[i] != a[i + 1])
