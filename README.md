@@ -61,6 +61,7 @@ leetCode Problemes
 | [0014-longest-common-prefix](https://github.com/avrlx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avrlx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/avrlx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +95,7 @@ leetCode Problemes
 | ------- |
 | [0054-spiral-matrix](https://github.com/avrlx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/avrlx/Leetcode/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/avrlx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,4 +132,5 @@ leetCode Problemes
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avrlx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/avrlx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
