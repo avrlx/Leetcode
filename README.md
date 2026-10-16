@@ -48,6 +48,7 @@ leetCode Problemes
 | [0001-two-sum](https://github.com/avrlx/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2325-decode-the-message](https://github.com/avrlx/Leetcode/tree/master/2325-decode-the-message) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ leetCode Problemes
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avrlx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/avrlx/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/avrlx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2325-decode-the-message](https://github.com/avrlx/Leetcode/tree/master/2325-decode-the-message) |
 ## Trie
 |  |
 | ------- |
