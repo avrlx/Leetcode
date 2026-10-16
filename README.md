@@ -46,6 +46,7 @@ leetCode Problemes
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avrlx/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ leetCode Problemes
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/avrlx/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/avrlx/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avrlx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -141,4 +143,8 @@ leetCode Problemes
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/avrlx/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
