@@ -62,6 +62,7 @@ leetCode Problemes
 | [0014-longest-common-prefix](https://github.com/avrlx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/avrlx/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/avrlx/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avrlx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/avrlx/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -105,10 +106,12 @@ leetCode Problemes
 | ------- |
 | [0118-pascals-triangle](https://github.com/avrlx/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/avrlx/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0647-palindromic-substrings](https://github.com/avrlx/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0647-palindromic-substrings](https://github.com/avrlx/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/avrlx/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Tree
 |  |
