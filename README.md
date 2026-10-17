@@ -23,6 +23,7 @@ leetCode Problemes
 | [0867-transpose-matrix](https://github.com/avrlx/Leetcode/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/avrlx/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1539-kth-missing-positive-number](https://github.com/avrlx/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/avrlx/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avrlx/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ leetCode Problemes
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/avrlx/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/avrlx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2325-decode-the-message](https://github.com/avrlx/Leetcode/tree/master/2325-decode-the-message) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/avrlx/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Trie
 |  |
 | ------- |
@@ -155,4 +157,8 @@ leetCode Problemes
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/avrlx/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
