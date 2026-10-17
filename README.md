@@ -50,6 +50,7 @@ leetCode Problemes
 | [0001-two-sum](https://github.com/avrlx/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0791-custom-sort-string](https://github.com/avrlx/Leetcode/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/avrlx/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [2325-decode-the-message](https://github.com/avrlx/Leetcode/tree/master/2325-decode-the-message) |
 ## Math
@@ -68,6 +69,7 @@ leetCode Problemes
 | [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/avrlx/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/avrlx/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0791-custom-sort-string](https://github.com/avrlx/Leetcode/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/avrlx/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avrlx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/avrlx/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -157,6 +159,7 @@ leetCode Problemes
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
+| [0791-custom-sort-string](https://github.com/avrlx/Leetcode/tree/master/0791-custom-sort-string) |
 ## Prefix Sum
 |  |
 | ------- |
