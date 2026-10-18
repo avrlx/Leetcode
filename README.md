@@ -16,6 +16,7 @@ leetCode Problemes
 | [0054-spiral-matrix](https://github.com/avrlx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/avrlx/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/avrlx/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0179-largest-number](https://github.com/avrlx/Leetcode/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/avrlx/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/avrlx/Leetcode/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@ leetCode Problemes
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/avrlx/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/avrlx/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/avrlx/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/avrlx/Leetcode/tree/master/0415-add-strings) |
@@ -162,11 +164,13 @@ leetCode Problemes
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/avrlx/Leetcode/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/avrlx/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/avrlx/Leetcode/tree/master/0767-reorganize-string) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/avrlx/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
 | [0767-reorganize-string](https://github.com/avrlx/Leetcode/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/avrlx/Leetcode/tree/master/0791-custom-sort-string) |
