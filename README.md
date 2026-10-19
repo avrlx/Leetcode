@@ -68,6 +68,7 @@ leetCode Problemes
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/avrlx/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/avrlx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/avrlx/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/avrlx/Leetcode/tree/master/0242-valid-anagram) |
