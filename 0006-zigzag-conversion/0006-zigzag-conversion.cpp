@@ -10,7 +10,7 @@ public:
                 while(i<s.size() && row < numRow){
                     zigzag[row++].push_back(s[i++]);
                 }
-                row = numRow - 2;
+                row -= 2;
             }
             else{
                 while(i < s.size() && row >=0){
