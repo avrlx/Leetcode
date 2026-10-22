@@ -88,6 +88,7 @@ leetCode Problemes
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/avrlx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2325-decode-the-message](https://github.com/avrlx/Leetcode/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/avrlx/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3498-reverse-degree-of-a-string](https://github.com/avrlx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -124,6 +125,7 @@ leetCode Problemes
 | [0415-add-strings](https://github.com/avrlx/Leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/avrlx/Leetcode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/avrlx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/avrlx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
