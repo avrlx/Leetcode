@@ -88,6 +88,7 @@ leetCode Problemes
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/avrlx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2325-decode-the-message](https://github.com/avrlx/Leetcode/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/avrlx/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3110-score-of-a-string](https://github.com/avrlx/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/avrlx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
