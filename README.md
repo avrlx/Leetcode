@@ -24,6 +24,7 @@ leetCode Problemes
 | [0867-transpose-matrix](https://github.com/avrlx/Leetcode/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/avrlx/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1539-kth-missing-positive-number](https://github.com/avrlx/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1920-build-array-from-permutation](https://github.com/avrlx/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/avrlx/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avrlx/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -126,6 +127,7 @@ leetCode Problemes
 | [0415-add-strings](https://github.com/avrlx/Leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/avrlx/Leetcode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/avrlx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1920-build-array-from-permutation](https://github.com/avrlx/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/avrlx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
