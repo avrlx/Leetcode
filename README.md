@@ -28,6 +28,7 @@ leetCode Problemes
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/avrlx/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/avrlx/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3668-restore-finishing-order](https://github.com/avrlx/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/avrlx/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ leetCode Problemes
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/avrlx/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3110-score-of-a-string](https://github.com/avrlx/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/avrlx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/avrlx/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -131,6 +133,7 @@ leetCode Problemes
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/avrlx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/avrlx/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/avrlx/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/avrlx/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
