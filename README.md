@@ -14,6 +14,7 @@ leetCode Problemes
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avrlx/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/avrlx/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/avrlx/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/avrlx/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/avrlx/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/avrlx/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/avrlx/Leetcode/tree/master/0179-largest-number) |
@@ -66,6 +67,7 @@ leetCode Problemes
 | [0007-reverse-integer](https://github.com/avrlx/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/avrlx/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/avrlx/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/avrlx/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/avrlx/Leetcode/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/avrlx/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/avrlx/Leetcode/tree/master/0441-arranging-coins) |
